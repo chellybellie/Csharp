@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningc", "learningc\learningc.csproj", "{72CB7792-2511-4B65-8156-4A36336937FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "introsharp2", "introsharp2\introsharp2.csproj", "{0CDA8F8A-D867-44B4-A6BD-2E2552E157DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesExe", "PropertiesExe\PropertiesExe.csproj", "{0A52048B-8D8A-4CC8-8C02-E950C94853BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{72CB7792-2511-4B65-8156-4A36336937FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72CB7792-2511-4B65-8156-4A36336937FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72CB7792-2511-4B65-8156-4A36336937FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CDA8F8A-D867-44B4-A6BD-2E2552E157DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDA8F8A-D867-44B4-A6BD-2E2552E157DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDA8F8A-D867-44B4-A6BD-2E2552E157DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDA8F8A-D867-44B4-A6BD-2E2552E157DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A52048B-8D8A-4CC8-8C02-E950C94853BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A52048B-8D8A-4CC8-8C02-E950C94853BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A52048B-8D8A-4CC8-8C02-E950C94853BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A52048B-8D8A-4CC8-8C02-E950C94853BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
